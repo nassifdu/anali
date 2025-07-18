@@ -1,0 +1,178 @@
+{
+  "insights": {
+    "Os wearables que mudaram meu treino em 2024": {
+      "type": "Insight Semanal",
+      "description": "Conteúdos mostrando experiências reais com wearable tech (relógios, anéis, pulseiras) aproximam público e criador. Comparações de métricas e dicas de uso geram alto engajamento entre seguidores interessados em tecnologia.",
+      "platforms": ["Instagram", "TikTok"],
+      "suggestions": [
+        "Mostrar prints dos dados do wearable",
+        "Relatar como o monitoramento motivou treinos",
+        "Explicar funcionalidades menos conhecidas",
+        "Lançar enquete: Qual wearable você usa?"
+      ],
+      "post_suggestion": "#wearable #fitnesstech #smartwatch #fitness #workout #treino #tecnologia #gadgets #healthylifestyle",
+      "metrics": {
+        "Saves": "Elevado interesse de usuários geeks; +70%",
+        "Compartilhamentos": "Conteúdo didático altamente compartilhado",
+        "Comentários": "Aumento no número de perguntas sobre modelos e preços",
+        "Alcance": "Expande para público tech além do fitness"
+      }
+    },
+    "App review: O que realmente funciona para treinar em casa": {
+      "type": "Insight Semanal",
+      "description": "Testar e avaliar apps de treino gera confiança e interesse, especialmente quando focado em apps que subiram no ranking global. Usuários querem opinião sincera de quem usa no dia a dia.",
+      "platforms": ["YouTube", "Instagram"],
+      "suggestions": [
+        "Demonstrar interface do app",
+        "Comentar sobre facilidade de uso",
+        "Fazer teste ao vivo durante treino",
+        "Pedir dicas de apps nos comentários"
+      ],
+      "post_suggestion": "#homeworkout #fitnessapp #appreview #treinoemcasa #fitness #workout #fitgirl #healthylifestyle #wellness",
+      "metrics": {
+        "Comentários": "+80% de perguntas/opiniões de seguidores",
+        "Compartilhamentos": "Alto entre quem busca aplicativos novos",
+        "Assinantes": "Crescimento por autoridade no assunto",
+        "Watchtime": "Alto se vídeo tem demonstração real"
+      }
+    },
+    "Minha rotina de treino guiada por dados: do wearable à recuperação": {
+      "type": "Insight Diário",
+      "description": "Conteúdo detalhando como o treino orientado por dados (wearables, apps de biofeedback) potencializa resultados, mostrando dia a dia em formato de vlog ou sequências rápidas.",
+      "platforms": ["TikTok", "Instagram"],
+      "suggestions": [
+        "Mostrar tela do wearable antes/depois do treino",
+        "Destaque para insights do sono, HRV, passos etc.",
+        "Sugestão de rotina personalizada a partir dos dados",
+        "Pergunta para o público: Você usa biofeedback?"
+      ],
+      "post_suggestion": "#biohacking #data #fitness #workout #recovery #treino #healthylifestyle #fitnesstech #wellness #performance",
+      "metrics": {
+        "Likes": "Engajamento rápido entre entusiastas",
+        "Saves": "+60%, como fonte de inspiração",
+        "Alcance": "Público avançado e iniciante interage",
+        "Comentários": "Traz dúvidas sobre gadgets e metodologias"
+      }
+    },
+    "O segredo do HIIT: treino intenso em 20 minutos": {
+      "type": "Insight Diário",
+      "description": "Posts curtos ou vídeos explicando como montar um HIIT eficaz têm alto salvamento e engajamento, além de incentivar que o público compartilhe suas rotinas pessoais.",
+      "platforms": ["Instagram", "TikTok"],
+      "suggestions": [
+        "Reels com sequência de exercícios",
+        "Quadro fixo: HIIT do dia",
+        "Compartilhar resultados com prints de calorias queimadas",
+        "Call-to-action: Marque alguém para treinar junto"
+      ],
+      "post_suggestion": "#hiit #hiitworkout #treinointenso #fitness #workout #cardio #20minuteworkout #fitgirl #treinorapido",
+      "metrics": {
+        "Saves": "+90% em relação a treinos genéricos",
+        "Compartilhamentos": "Alto engajamento em horários de pico",
+        "Comentários": "+35% relatando experiência",
+        "Crescimento de seguidores": "Orgânico por indicação"
+      }
+    },
+    "Como aliados os treinos para saúde mental na minha rotina?": {
+      "type": "Insight Semanal",
+      "description": "Conteúdo sobre relação entre exercício físico e saúde mental apresenta ótimo potencial de viralização, principalmente quando vinculado a experiências pessoais e dicas práticas.",
+      "platforms": ["Instagram", "YouTube"],
+      "suggestions": [
+        "Relato pessoal sobre ansiedade/estresse",
+        "Citar estudos ou dados recentes",
+        "Listar melhores exercícios para o bem-estar",
+        "Chamar para compartilhar experiências nos comentários"
+      ],
+      "post_suggestion": "#mentalhealth #saudemental #wellness #bemestar #fitness #workout #selfcare #mindfulness #healthylifestyle",
+      "metrics": {
+        "Comentários": "Profundos; discursos pessoais e apoio mútuo",
+        "Saves": "+50%, público busca referência emocional",
+        "Compartilhamentos": "Com amigos/família",
+        "Alcance": "Abona autoridade do criador em wellness"
+      }
+    },
+    "Por que todo escritório precisa de walking pad?": {
+      "type": "Insight Diário",
+      "description": "Formatos mostrando o uso prático de walking pads ou mini-bikes em home office geram interesse especialmente entre quem busca soluções saudáveis no trabalho.",
+      "platforms": ["TikTok", "Instagram"],
+      "suggestions": [
+        "Mostrar rotina de trabalho+caminhada",
+        "Comparar níveis de energia antes/depois",
+        "Explicar benefícios preventivos para saúde",
+        "Enquete: Home office mais ativo, sim ou não?"
+      ],
+      "post_suggestion": "#walkingpad #homeoffice #wfh #fitness #workout #healthylifestyle #bemestar #produtividade #ergonomia",
+      "metrics": {
+        "Alcance": "Amplia público além do fitness tradicional",
+        "Engajamento": "Alto entre seguidores que trabalham em escritório",
+        "Saves": "+20%, solução prática para o dia a dia",
+        "Comentários": "Recebe dúvidas e indicações de marcas"
+      }
+    },
+    "Testei snacks proteicos de supermercado: vale a pena?": {
+      "type": "Insight Semanal",
+      "description": "Conteúdos testando tendências alimentares (chocolate proteico, proteína em chips, etc) viralizam com comparações sinceras e avaliações em tempo real.",
+      "platforms": ["TikTok", "Instagram"],
+      "suggestions": [
+        "Degustação ao vivo",
+        "Comparativo de preço e sabor",
+        "Mostrar tabela nutricional real",
+        "Call-to-action: Indique o snack favorito"
+      ],
+      "post_suggestion": "#protein #proteinsnacks #fitnessfood #healthylifestyle #dieta #nutricao #review #fitgirl #eatclean",
+      "metrics": {
+        "Visualizações": "Altas, efeito trend",
+        "Comentários": "Recebe recomendações do público",
+        "Compartilhamentos": "+40% comparado a posts tradicionais",
+        "Saves": "Para consultar na próxima ida ao mercado"
+      }
+    },
+    "Musculação feminina: o que mudou nos últimos anos": {
+      "type": "Insight Semanal",
+      "description": "Abordar crescimento da força feminina, com dados e relatos inspira audiência; pode ser mesclado com vídeo motivacional ou carrossel com estudos de caso.",
+      "platforms": ["Instagram", "YouTube"],
+      "suggestions": [
+        "Mostrar evolução pessoal com fotos/vídeos",
+        "Citar estatísticas de crescimento",
+        "Depoimentos de seguidoras",
+        "Call-to-action: Compartilhe sua história"
+      ],
+      "post_suggestion": "#strongwoman #musculacao #girlpower #fitness #workout #gym #treino #forca #empoderamento",
+      "metrics": {
+        "Engajamento": "Muito alto entre mulheres",
+        "Comentários": "+70% com relatos pessoais",
+        "Compartilhamentos": "Conteúdo inspirador viraliza rápido",
+        "Saves": "Público se sente representado"
+      }
+    },
+    "Reformer Pilates na prática: o que me surpreendeu": {
+      "type": "Insight Diário",
+      "description": "Conteúdo mostrando ou reagindo a aulas de Reformer Pilates tem apelo aspiracional e educativo; fotos e vídeos curtos atraem curiosos e geram identificação.",
+      "platforms": ["TikTok", "Instagram"],
+      "suggestions": [
+        "Momento favorito da aula",
+        "Dicas para iniciantes perderem o medo",
+        "Benefícios percebidos após poucas aulas",
+        "Enquete: Quem já testou pilates?"
+      ],
+      "post_suggestion": "#reformerpilates #pilates #fitness #workout #wellness #bemestar #core #strength #healthylifestyle",
+      "metrics": {
+        "Comentários": "+55% curiosos/interessados",
+        "Compartilhamentos": "Público feminino engaja além do esperado",
+        "Alcance": "Atrai audiência nova do wellness",
+        "Saves": "Alta retenção para futuros testes"
+      }
+    },
+    "Desafio de 7 dias: Respiração funcional para o treino e para a vida": {
+      "type": "Insight Semanal",
+      "description": "Desafios curtos com técnicas de breathwork atraem seguidores focados tanto em desempenho quanto em saúde mental, gerando engajamento e testemunhos de progresso.",
+      "platforms": ["Instagram", "TikTok"],
+      "suggestions": [
+        "Vídeos diários com exercícios guiados",
+        "Instruções simplificadas para leigos",
+        "Receber relatos de participantes",
+        "Usar hashtag própria do desafio"
+      ],
+      "post_suggestion": "#breathwork #meditation #wellness #bemestar #saudemental #challenge #mindfulness #selfcare #respire"
+    }
+  }
+}

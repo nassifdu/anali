@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>anali login</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" type="image/png" href="anali_logo.png">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+    :root {
+      --font-family: 'Mulish', sans-serif;
+      --primary: #D196A7;
+      --turquoise: #898f71;
+      --background: #F7D3E0;
+      --card-bg: #ffeff3;
+      --text-color: #1F2937;
+      --text-muted: #6B7280;
+      --border-color: #E5E7EB;
+      --logo-font: 'Space Mono', monospace;
+    }
+
+    html, body, * {
+      font-family: var(--font-family) !important;
+    }
+    body {
+      background-color: var(--background);
+      color: var(--text-color);
+    }
+
+    .card {
+      background-color: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 1rem;
+      box-shadow: 0 8px 32px 0 rgba(64, 224, 208, 0.12), 0 2px 8px 0 rgba(0,0,0,0.08);;
+    }
+
+    /* Only the logo uses Space Mono */
+    .logo-anali {
+      font-family: var(--logo-font) !important;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: var(--turquoise);
+      box-shadow: 0 0 0 2px var(--turquoise);
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+  <link rel="img" href="img/">
+</head>
+<body class="min-h-screen flex items-center justify-center">
+
+  <div class="card w-full max-w-md p-8">
+    <div class="mb-6 flex flex-col items-center">
+      <div class="flex items-center justify-center gap-3 rounded-2xl bg-[var(--primary)] px-6 py-4 shadow" style="min-width:180px;">
+        <img src="anali.png" alt="logo" class="w-10 h-10 object-contain" style="filter: none;">
+        <span class="logo-anali text-3xl text-white font-bold mb-0" style="font-family: var(--logo-font) !important;">anali</span>
+      </div>
+    </div>
+    <p class="text-[var(--text-muted)] text-sm text-center mb-6">Faça login para continuar</p>
+    <form>
+      <label class="block mb-4">
+        <span class="text-sm text-[var(--text-muted)]">E-mail</span>
+        <input type="email" class="w-full mt-1 px-4 py-2 border border-[var(--border-color)] rounded-md" placeholder="voce@exemplo.com" required>
+      </label>
+      <label class="block mb-6">
+        <span class="text-sm text-[var(--text-muted)]">Senha</span>
+        <input type="password" class="w-full mt-1 px-4 py-2 border border-[var(--border-color)] rounded-md" placeholder="••••••••" required>
+      </label>
+      <div class="flex items-center mb-6">
+        <input id="remember" type="checkbox" class="mr-2 accent-[var(--primary)] rounded outline-none focus:ring-0 focus:outline-none border-[var(--border-color)]">
+        <label for="remember" class="text-sm text-[var(--text-muted)] select-none">Lembre de mim</label>
+      </div>
+      <button type="submit" class="w-full py-2 rounded-full font-bold text-white bg-[var(--primary)] hover:bg-[var(--turquoise)] transition duration-300 mb-3">
+        Entrar
+      </button>
+      <a href="register.html">
+        <button type="button" class="w-full py-2 rounded-full font-bold text-[var(--primary)] border border-[var(--primary)] bg-white hover:bg-[var(--primary)] hover:text-white transition duration-300">
+          Criar conta
+        </button>
+      </a>
+    </form>
+    <p class="mt-4 text-sm text-center text-[var(--text-muted)]">
+      Esqueceu a senha? <a href="#" class="text-[var(--primary)] hover:underline">Redefinir</a>
+    </p>
+  </div>
+</body>
+</html>
