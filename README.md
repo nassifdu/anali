@@ -1,0 +1,2 @@
+# anali
+dados → ideias → impacto
